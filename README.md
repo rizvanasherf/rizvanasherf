@@ -1,8 +1,8 @@
 # Rizvan Ali Asherf
 
-I build AI-driven learning systems and automation solutions, and I mentor engineers
-into job-ready roles. At Brototype I support 1,200+ students and helped design
-the ACE Program and 5+ technical courses.
+**AI Engineer at Brototype** · Kochi, India
+
+I build AI-driven learning systems and automation solutions, and I mentor engineers into job-ready roles. At Brototype I support 1,200+ students and helped design the ACE Program and 5+ technical courses.
 
 [Portfolio](https://www.rizvanaliasherf.xyz) · [LinkedIn](https://www.linkedin.com/in/rizvan293) · [Email](mailto:rizvanaliasherf293@gmail.com)
 
@@ -19,23 +19,24 @@ the ACE Program and 5+ technical courses.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [SkinAI](https://huggingface.co/spaces/riswan2221/SkinAi) | Image classifier for common skin conditions. [Accuracy: X%, dataset: Y] | Python, TensorFlow |
-| [TALKEE.AI] | [a communication assistant app designed with six training methods] | Streamlit, Speech Recoginzation] |
-| [Face Detection] | [Implemented face detection using MTCNN and extracted image embeddings with the InceptionResNetV2 model] | [Opencv, FAISS] |
+| [SkinAI](https://huggingface.co/spaces/riswan2221/SkinAi) | Image classifier for common skin conditions | Python, TensorFlow |
+| Talkee.AI | Communication assistant app built around six training methods | Streamlit, Speech Recognition |
+| Face Detection | Face detection with MTCNN and image embeddings extracted using InceptionResNetV2 | OpenCV, FAISS |
 
+> SkinAI is a learning demo and not a medical diagnostic tool.
 
-## Stack
+## Tech stack
 
-*Languages:** Python, SQL (PostgreSQL)
-**Machine Learning & Deep Learning:** Scikit-learn, TensorFlow, Keras, PyTorch, CNN, RNN, LSTM, GAN, VAE, Transformers
-**Generative AI & LLMs:** LLMs, RAG, Prompt Engineering, AI Agents, LangChain, LlamaIndex, OpenAI / Anthropic APIs, Hugging Face, Ollama
-**Vector Databases & Retrieval:** FAISS, ChromaDB, Pinecone
-**Computer Vision & NLP:** OpenCV, YOLO, NLTK, spaCy
-**Automation & Integrations:** n8n, REST APIs, MCP (Model Context Protocol)
-**Backend & Web:** Django, FastAPI
-**Data & Visualization:** Pandas, NumPy, Seaborn, Matplotlib, Tableau, Power BI
-**MLOps & Tools:** Git, GitHub Actions, Docker, MLflow, Jupyter, Hugging Face Spaces
-**Foundations:** Mathematics, Statistics, Data Structures & Algorithms
+- **Languages:** Python, SQL (PostgreSQL)
+- **ML & Deep Learning:** Scikit-learn, TensorFlow, Keras, PyTorch, CNN, RNN, LSTM, GAN, VAE, Transformers
+- **Generative AI & LLMs:** LLMs, RAG, Prompt Engineering, AI Agents, LangChain, LlamaIndex, OpenAI / Anthropic APIs, Hugging Face, Ollama
+- **Vector Databases:** FAISS, ChromaDB, Pinecone
+- **Computer Vision & NLP:** OpenCV, YOLO, NLTK, spaCy
+- **Automation & Integrations:** n8n, REST APIs, MCP (Model Context Protocol)
+- **Backend & Web:** Django, FastAPI
+- **Data & Visualization:** Pandas, NumPy, Seaborn, Matplotlib, Tableau, Power BI
+- **MLOps & Tools:** Git, GitHub Actions, Docker, MLflow, Jupyter, Hugging Face Spaces
+- **Foundations:** Mathematics, Statistics, Data Structures & Algorithms
 
 ## Open to
 
