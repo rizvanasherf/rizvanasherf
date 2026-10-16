@@ -1,18 +1,39 @@
-## 👋 Hi, I'm Rizvan Ali Asherf 
+# Rizvan Ali Asherf
 
-🔹 Data Science & Machine Learning Enthusiast  
-🔹 Deep Learning
-🔹 Passionate about Open Source & Algorithmic Problem-Solving  
+I build AI-driven learning systems and automation solutions, and I mentor engineers
+into job-ready roles. At Brototype I support 1,200+ students and helped design
+the ACE Program and 5+ technical courses.
 
-### 🛠 Tech Stack  
-- **Languages:** Python, SQL 
-- **Libraries & Frameworks:** NumPy, Pandas, Scikit-Learn, Matplotlib ,Tensorflow
-- **Tools:** Git, Docker, Jupyter Notebook  
+[Portfolio](https://www.rizvanaliasherf.xyz) · [LinkedIn](https://www.linkedin.com/in/rizvan293) · [Email](mailto:rizvanaliasherf293@gmail.com)
 
+---
 
-### 🚀 Featured Projects  
-- 🔥 **[SkinAi](https://huggingface.co/spaces/riswan2221/SkinAi)** – SkinAI is an advanced application designed to detect and diagnose a select range of common skin diseases with high accuracy. While we focus on a smaller number of well-researched conditions, SkinAI ensures reliable and science-backed insights, allowing users to quickly identify and understand their skin health concerns. Whether it's a persistent rash, an unusual spot, or another common skin issue, SkinAI provides the guidance you need for informed decisions.
+## What I work on
 
+- **AI automation:** workflows and tools that remove repetitive work
+- **Applied ML and computer vision:** from prototype to deployed demo
+- **AI in education:** frameworks and tools that improve learning outcomes
+- **Mentorship and community:** hackathon judge and speaker at engineering colleges across Kerala
 
-### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://linkedin.com/in/rizvan-ali-asherf)  
+## Selected projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [SkinAI](https://huggingface.co/spaces/riswan2221/SkinAi) | Image classifier for common skin conditions. [Accuracy: X%, dataset: Y] | Python, TensorFlow |
+| [Project 2] | [One line: problem and result] | [Stack] |
+| [Project 3] | [One line: problem and result] | [Stack] |
+
+> SkinAI is a demo for learning purposes and not a medical diagnostic tool.
+
+## Stack
+
+**Languages:** Python, SQL
+**ML / AI:** TensorFlow, Scikit-learn, [LLM APIs], [LangChain / agents]
+**Data:** NumPy, Pandas, Matplotlib
+**Tools:** Git, Docker, Jupyter, [n8n / Zapier / automation tools]
+
+## Open to
+
+AI advisory · automation projects · guest talks and hackathon judging · student mentorship
+
+Reach me at rizvanaliasherf293@gmail.com
