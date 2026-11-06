@@ -15,15 +15,6 @@ I build AI-driven learning systems and automation solutions, and I mentor engine
 - **AI in education:** frameworks and tools that improve learning outcomes
 - **Mentorship and community:** hackathon judge and speaker at engineering colleges across Kerala
 
-## Selected projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [SkinAI](https://huggingface.co/spaces/riswan2221/SkinAi) | Image classifier for common skin conditions | Python, TensorFlow |
-| Talkee.AI | Communication assistant app built around six training methods | Streamlit, Speech Recognition |
-| Face Detection | Face detection with MTCNN and image embeddings extracted using InceptionResNetV2 | OpenCV, FAISS |
-
-> SkinAI is a learning demo and not a medical diagnostic tool.
 
 ## Tech stack
 
