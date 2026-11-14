@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rizvan293-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizvan293)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizvanaliasherf293@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00d4ff&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=rizvanasherf&label=Profile%20Views&color=00d4ff&style=flat-square)
 ![Location](https://img.shields.io/badge/Based%20in-Kochi%2C%20India-2c5364?style=flat-square&logo=googlemaps&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20collaborate-brightgreen?style=flat-square)
 
@@ -27,7 +27,7 @@
 
 ```python
 class RizvanAliAsherf:
-    location = "Kochi, India "
+    location = "Kochi, India"
     focus    = ["AI & LLM applications", "Machine Learning", "Data Science",
                 "Automation", "Full-stack Web Development"]
     impact   = {
